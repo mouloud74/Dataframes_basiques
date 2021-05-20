@@ -1,0 +1,2 @@
+# importer la librairie pandas pour traiter les données
+import pandas as pd
